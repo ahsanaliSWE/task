@@ -35,7 +35,7 @@ class HomeScreenState extends State<HomeScreen> {
                 style: const TextStyle(fontSize: 24),
               ),
               style: ElevatedButton.styleFrom(
-                  primary: Colors.red,
+                  backgroundColor: Colors.red,
                   padding: const EdgeInsets.symmetric(vertical: 20)),
             ),
             const SizedBox(
